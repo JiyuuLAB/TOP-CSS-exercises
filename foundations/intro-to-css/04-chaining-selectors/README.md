@@ -1,5 +1,7 @@
-# Chaining Selectors
 
+- [x] OK - COMPLETED
+
+# Chaining Selectors
 Credits for the images in this exercise go to [Katho Mutodo](https://linktr.ee/photobykatho_) and [Andrea Piacquadio](https://www.pexels.com/@olly?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels).
 
 
@@ -19,3 +21,6 @@ The properties you need to add to each element are:
 - Did you properly chain class selectors for each rule?
 - Does the `proportioned` image retain its original square proportions?
 - Does the `distorted` image end up looking squished and, well, distorted?
+
+
+

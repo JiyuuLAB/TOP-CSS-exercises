@@ -1,3 +1,6 @@
+
+- [x] OK - COMPLETED
+
 # Descendant Combinator
 Understanding how combinators work can become a lot easier when you start playing around with them and see what exactly is affected by them versus what isn't.
 
@@ -9,6 +12,7 @@ The properties you need to add are:
 
 * Only the `p` elements that are descendants of the `div` element should have a yellow background, red text, a font size of 20px, and center aligned.
 
+
 ## Desired Outcome
 ![desired outcome](./desired-outcome.png)
 
@@ -16,3 +20,6 @@ The properties you need to add are:
 ### Self Check
 - Do the elements that contain the text "This should be styled" have the correct styles applied?
 - Do the elements that contain the text "This should be unstyled" have no styles applied?
+
+
+
